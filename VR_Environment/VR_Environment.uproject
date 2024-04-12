@@ -59,6 +59,14 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "OculusAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "Spatialization",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
